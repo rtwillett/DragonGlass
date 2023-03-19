@@ -10,4 +10,6 @@ Tools for programmatically interfacing with the Obsidian note taking software pl
 This is a work in progress and created to support some other ongoing projects
 
 ### Installation of the package
-  python -m pip install git+https://github.com/rtwillett/DragonGlass.git
+```
+python -m pip install git+https://github.com/rtwillett/DragonGlass.git
+```
