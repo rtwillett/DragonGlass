@@ -19,9 +19,6 @@ setuptools.setup(
     ],
     install_requires=[
         "wheel",
-        "jupyter",
-        "os",
-        "glob",
-        "re"
+        "jupyter"
     ]
 )
